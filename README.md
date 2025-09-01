@@ -1,5 +1,4 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Register Number : 212222100052
 
 # AIM :
 ## To write a C program to implement a symbol table.
